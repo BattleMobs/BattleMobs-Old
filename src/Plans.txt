@@ -1,0 +1,52 @@
+--- BattleMobs TODO-List ---
+
+### Mobs
+
+Lvl 1:
+  [X] Zombie
+  [O] Cow
+  [O] Wolf
+  [O] Villager
+
+Lvl 2:
+  [ ] Skeleton
+  [ ] Chicken
+  [ ] Rabbit
+  [ ] Witch
+
+Lvl 3:
+  [ ] Spider
+  [ ] Pig
+  [ ] Ocelot
+  [ ] Slime
+
+Lvl 4:
+  [ ] Creeper
+  [ ] Sheep
+  [ ] Squid
+  [ ] Snow Man
+
+Lvl 5:
+  [ ] Iron Golem
+  [ ] Magma Slime
+  [ ] Blaze
+  [ ] Guardian
+
+### Parser
+
+  [X] Reader
+  [X] Writer
+  [X] Autosave
+  [X] Edit & Insert Functions
+  
+### Other
+
+  [X] Effect System
+  [O] Utils
+  [X] Menu System
+  [X] Scoreboard
+  [X] Level System
+  
+### Maps (building)
+  [ ] Lobby
+  [O] Map
